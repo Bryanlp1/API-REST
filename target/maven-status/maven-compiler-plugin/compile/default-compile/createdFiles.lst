@@ -1,0 +1,7 @@
+com\taskflow\structure\StackAction.class
+com\taskflow\structure\QueueTask.class
+com\taskflow\repository\UndoRepository.class
+com\taskflow\model\Task.class
+com\taskflow\model\Action.class
+com\taskflow\structure\QueueTask$Node.class
+com\taskflow\structure\StackAction$Node.class
